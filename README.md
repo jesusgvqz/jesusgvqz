@@ -24,7 +24,6 @@ Universidad Veracruzana
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)](#)
 [![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)](#)
 
-
 ### Tech
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
@@ -60,6 +59,10 @@ Universidad Veracruzana
 
 ### Apps 
 
+<details>
+<summary>Apps</summary>
+### Apps
+
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)
@@ -67,6 +70,10 @@ Universidad Veracruzana
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 
+</details>
+
+<details>
+<summary>Misc</summary>
 ### Platforms
 
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
@@ -74,3 +81,5 @@ Universidad Veracruzana
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
 [![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)](#)
 [![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](#)
+
+</details>
