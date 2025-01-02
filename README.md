@@ -1,6 +1,9 @@
 # Hey, this is me
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
+Lic. Redes y Servicios de Cómputo
+Universidad Veracruzana
+
 ## My socials
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jes%C3%BAs-her%C3%B3n-g%C3%A1lvez-v%C3%A1zquez-215734323/?locale=en_US)
