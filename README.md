@@ -14,8 +14,7 @@ Universidad Veracruzana
 
 ## What I've worked with
 
-<details>
-<summary>Operative Systems</summary>
+### Operative Systems
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
@@ -23,9 +22,6 @@ Universidad Veracruzana
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)
 [![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#)
-
-</details>
-
 
 ### Tech
 
