@@ -9,5 +9,3 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
